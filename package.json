@@ -1,0 +1,14 @@
+{
+  "name": "bpets-home",
+  "version": "1.0.0",
+  "description": "B|Pets - Healthier Pets. Longer Lives.",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static HTML site - no build required'",
+    "lint": "echo 'No linter configured'"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
